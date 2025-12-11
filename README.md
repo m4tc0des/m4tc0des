@@ -5,8 +5,10 @@ I work on projects involving **RESTful APIs**, **relational databases**, and web
 <div align="center">
   <img src="https://media.giphy.com/media/j4rPM934CLIvC/giphy.gif" alt="MRW GIF" />
 </div>
+
 ---
-## 💻 Technologies & Tools
+
+💻Technologies & Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -14,13 +16,6 @@ I work on projects involving **RESTful APIs**, **relational databases**, and web
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## ⚡ GitHub Stats
-
-![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4tc0des&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tc0des&layout=compact&theme=radical)
 
 ---
 
