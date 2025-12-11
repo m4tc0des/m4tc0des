@@ -2,11 +2,11 @@
 
 I'm a Back-End Developer focused on **C# and .NET**, passionate about clean code, APIs, and building efficient solutions.  
 I work on projects involving **RESTful APIs**, **relational databases**, and web development using **ASP.NET Core/MVC**.
-
-![Elliot from Mr. Robot](https://media.giphy.com/media/l0HFj3iHt8F2rEQnK/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" alt="Math Lady Meme" />
+</div>
 
 ---
-
 ## 💻 Technologies & Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
