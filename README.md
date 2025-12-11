@@ -3,9 +3,8 @@
 I'm a Back-End Developer focused on **C# and .NET**, passionate about clean code, APIs, and building efficient solutions.  
 I work on projects involving **RESTful APIs**, **relational databases**, and web development using **ASP.NET Core/MVC**.
 <div align="center">
-  <img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" alt="Math Lady Meme" />
+  <img src="https://media.giphy.com/media/j4rPM934CLIvC/giphy.gif" alt="MRW GIF" />
 </div>
-
 ---
 ## 💻 Technologies & Tools
 
