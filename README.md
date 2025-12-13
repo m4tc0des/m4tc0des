@@ -1,7 +1,10 @@
 # 👋 Hi there, I'm Mateus!
 
 I'm a Back-End Developer focused on **C# and .NET**, passionate about clean code, APIs, and building efficient solutions.  
-I work on projects involving **RESTful APIs**, **relational databases**, and web development using **ASP.NET Core/MVC**.
+I work on projects involving **RESTful APIs**, **relational databases**, and web development using **ASP.NET Core/MVC**.  
+Currently expanding my skills with **Docker** for containerization and **Git** for version control and collaboration.  
+Always seeking to improve and implement best practices in software development.
+
 <div align="center">
   <img src="https://media.giphy.com/media/xT8qBpPTFsLrkrZahO/giphy.gif" alt="Bryan Cranston - I liked it" />
 </div>
