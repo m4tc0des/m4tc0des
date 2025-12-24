@@ -3,6 +3,7 @@
 I'm a Back-End Developer focused on **C# and .NET**, passionate about clean code, APIs, and building efficient solutions.  
 I work on projects involving **RESTful APIs**, **relational databases**, and web development using **ASP.NET Core/MVC**.  
 Currently expanding my skills with **Docker** for containerization and **Git** for version control and collaboration.  
+I also apply **Agile methodologies (Scrum/Kanban)**, **DevOps practices**, and **CI/CD pipelines** to deliver incremental value, ensuring code quality with **TDD and automated testing**.  
 Always seeking to improve and implement best practices in software development.
 
 <div align="center">
@@ -22,6 +23,12 @@ Always seeking to improve and implement best practices in software development.
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat&logo=trello&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat&logo=githubactions&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-FF6F00?style=flat&logo=azuredevops&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-000000?style=flat&logo=testinglibrary&logoColor=white)
+
 
 ---
 
