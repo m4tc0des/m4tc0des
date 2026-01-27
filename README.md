@@ -1,10 +1,11 @@
-# 👋 Hi there, I'm Mateus!
+## Olá, eu sou Mateus 👋
 
-I'm a Back-End Developer focused on **C# and .NET**, passionate about clean code, APIs, and building efficient solutions.  
-I work on projects involving **RESTful APIs**, **relational databases**, and web development using **ASP.NET Core/MVC**.  
-Currently expanding my skills with **Docker** for containerization and **Git** for version control and collaboration.  
-I also apply **Agile methodologies (Scrum/Kanban)**, **DevOps practices**, and **CI/CD pipelines** to deliver incremental value, ensuring code quality with **TDD and automated testing**.  
-Always seeking to improve and implement best practices in software development.
+Sou Desenvolvedor Back-End focado em **C# e .NET**, com experiência em projetos envolvendo **APIs RESTful**, bancos de dados relacionais e desenvolvimento web utilizando **ASP.NET Core/MVC**.  
+
+Atualmente estou expandindo meus conhecimentos em **Docker** para containerização e em **Git** para versionamento e colaboração. Também aplico metodologias ágeis (**Scrum/Kanban**), práticas de **DevOps** e pipelines de **CI/CD**, garantindo entregas incrementais com qualidade.  
+
+Tenho interesse especial em **criação e consumo de APIs**, explorando novas formas de integração e aprendizado contínuo. Utilizo **TDD** e testes automatizados para assegurar a confiabilidade do código e busco sempre implementar boas práticas no desenvolvimento de software.  
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT8qBpPTFsLrkrZahO/giphy.gif" alt="Bryan Cranston - I liked it" />
