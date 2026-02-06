@@ -1,6 +1,6 @@
-## Olá, eu sou Mateus 👋
+## Boas Vindas ao meu perfil 😀
 
-Sou Desenvolvedor Back-End focado em **C# e .NET**, com experiência em projetos envolvendo **APIs RESTful**, bancos de dados relacionais e desenvolvimento web utilizando **ASP.NET Core/MVC**.  
+Me chamo Mateus, sou Desenvolvedor Back-End focado em **C# e .NET**, com experiência em projetos envolvendo **APIs RESTful**, bancos de dados relacionais e desenvolvimento web utilizando **ASP.NET Core/MVC**.  
 
 Atualmente estou expandindo meus conhecimentos em **Docker** para containerização e em **Git** para versionamento e colaboração. Também aplico metodologias ágeis (**Scrum/Kanban**), práticas de **DevOps** e pipelines de **CI/CD**, garantindo entregas incrementais com qualidade.  
 
