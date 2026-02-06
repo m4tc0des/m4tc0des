@@ -1,6 +1,6 @@
 ## Boas Vindas ao meu perfil 😀
 
-Me chamo Mateus, sou Desenvolvedor Back-End focado em **C# e .NET**, com experiência em projetos envolvendo **APIs RESTful**, bancos de dados relacionais e desenvolvimento web utilizando **ASP.NET Core/MVC**.  
+Me chamo Mateus, sou Desenvolvedor Back-End focado em **C# e .NET**, com experiência em projetos envolvendo **APIs RESTful**, bancos de dados relacionais e desenvolvimento web utilizando **ASP.NET Core/MVC**.
 
 Atualmente estou expandindo meus conhecimentos em **Docker** para containerização e em **Git** para versionamento e colaboração. Também aplico metodologias ágeis (**Scrum/Kanban**), práticas de **DevOps** e pipelines de **CI/CD**, garantindo entregas incrementais com qualidade.  
 
@@ -29,7 +29,6 @@ Tenho interesse especial em **criação e consumo de APIs**, explorando novas fo
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat&logo=githubactions&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-FF6F00?style=flat&logo=azuredevops&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-000000?style=flat&logo=testinglibrary&logoColor=white)
-
 
 ---
 
