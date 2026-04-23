@@ -1,4 +1,4 @@
-# Olá, eu sou o Mateus 👋
+# Olá, eu sou o Mateus
 
 ## Backend Software Engineer | .NET Specialist
 
@@ -8,14 +8,21 @@ Sou um desenvolvedor focado em construir sistemas robustos, escaláveis e de alt
 
 ### Expertise & Foco Técnico
 
-* **Arquitetura & Design:** Desenvolvimento de sistemas distribuídos e APIs RESTful com **ASP.NET Core**, utilizando **Microsserviços** e garantindo segurança com **Identity**, **JWT** e **OAuth2**.
-* **Persistência de Dados:** Experiência avançada com **Entity Framework Core**, otimização de queries e modelagem de dados em **SQL Server** e **MySQL**.
-* **Frontend de Apoio:** Construção de interfaces reativas e modernas utilizando **Angular (17+)** e **RxJS**, focando na integração fluida entre cliente e servidor.
-* **Qualidade & DevOps:** Defensor da cultura de testes (**TDD**), containerização com **Docker** e automação de fluxos de CI/CD com **GitHub Actions**.
+* **Arquitetura & Design:** Especialista no desenvolvimento de sistemas distribuídos e APIs RESTful com **ASP.NET Core**, utilizando **Microsserviços** e garantindo segurança avançada com **Identity**, **JWT** e **OAuth2**.
+* **Persistência de Dados:** Modelagem e otimização de queries com **Entity Framework Core** em ambientes **SQL Server** e **MySQL**, com foco em performance e integridade de dados.
+* **Frontend reativo:** Integração fluida entre o ecossistema .NET e interfaces modernas com **Angular (17+)**, utilizando **RxJS** e **TypeScript** para uma experiência de usuário de alto nível.
+* **Qualidade & DevOps:** Defensor de código testável (**TDD/xUnit**), containerização com **Docker** e automação de esteiras de **CI/CD** via GitHub Actions.
 
-> [!TIP]
-> **Projetos em Destaque:** > * **Korp Challenge:** Sistema de Microsserviços para gestão de estoque e faturamento com comunicação distribuída e bancos independentes.
-> * **MyRecipeBook:** Projeto Fullstack aplicando padrões avançados de Backend, criptografia e regras de negócio complexas.
+> [!IMPORTANT]
+> **Formação & Certificação:** Atualmente cursando Análise e Desenvolvimento de Sistemas e em preparação ativa para a certificação **Microsoft Certified: Azure Developer Associate (AZ-204)**.
+
+---
+
+### Projetos em Destaque
+
+* **Course Management System (GestaoCursos):** API desenvolvida com **.NET 8** seguindo rigorosamente os padrões de **Clean Architecture** e **DDD**. Implementa funcionalidades avançadas como **Soft Delete**, granularidade em atualizações via PATCH, e mapeamentos fluentes customizados para MySQL.
+* **Korp Challenge:** Ecossistema de Microsserviços para gestão de estoque e faturamento, utilizando comunicação distribuída, bancos de dados independentes.
+* **MyRecipeBook:** Projeto focado em regras de negócio complexas, criptografia de dados e integração de APIs seguras.
 
 ---
 
@@ -26,7 +33,7 @@ Sou um desenvolvedor focado em construir sistemas robustos, escaláveis e de alt
 | **Linguagens & Frameworks** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) |
 | **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) |
 | **Dados & ORM** | ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Tools & Middlewares** | ![FluentValidation](https://img.shields.io/badge/FluentValidation-8E44AD?style=flat&logo=fluentvalidation&logoColor=white) ![AutoMapper](https://img.shields.io/badge/AutoMapper-732E91?style=flat&logo=dotnet&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) |
+| **Tools & Middlewares** | ![Mapster](https://img.shields.io/badge/Mapster-732E91?style=flat&logo=dotnet&logoColor=white) ![FluentValidation](https://img.shields.io/badge/FluentValidation-8E44AD?style=flat&logo=fluentvalidation&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) |
 | **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
