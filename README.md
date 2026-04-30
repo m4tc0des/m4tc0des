@@ -8,21 +8,21 @@ Sou um desenvolvedor focado em construir sistemas robustos, escaláveis e de alt
 
 ### Expertise & Foco Técnico
 
-* **Arquitetura & Design:** Especialista no desenvolvimento de sistemas distribuídos e APIs RESTful com **ASP.NET Core**, utilizando **Microsserviços** e garantindo segurança avançada com **Identity**, **JWT** e **OAuth2**.
-* **Persistência de Dados:** Modelagem e otimização de queries com **Entity Framework Core** em ambientes **SQL Server** e **MySQL**, com foco em performance e integridade de dados.
-* **Frontend reativo:** Integração fluida entre o ecossistema .NET e interfaces modernas com **Angular (17+)**, utilizando **RxJS** e **TypeScript** para uma experiência de usuário de alto nível.
-* **Qualidade & DevOps:** Defensor de código testável (**TDD/xUnit**), containerização com **Docker** e automação de esteiras de **CI/CD** via GitHub Actions.
+* **Mensageria & Sistemas Distribuídos:** Atualmente aprofundando conhecimentos em comunicação assíncrona utilizando **RabbitMQ** e **Kafka** para garantir resiliência e escalabilidade em arquiteturas de microsserviços.
+* **Arquitetura & Design:** Especialista no desenvolvimento de sistemas desacoplados e APIs RESTful com **ASP.NET Core**, utilizando **Clean Architecture** e garantindo segurança avançada com **Identity** e **JWT**.
+* **Persistência de Dados:** Modelagem e otimização de persistência com **Entity Framework Core**, aplicando padrões de **Repositórios Segregados** (Read/Write) e bancos de dados independentes por serviço.
+* **Qualidade & DevOps:** Defensor de código limpo e testável, utilizando **Docker** para orquestração de containers e automação de fluxos de **CI/CD**.
 
-> [!IMPORTANT]
-> **Formação & Certificação:** Atualmente cursando Análise e Desenvolvimento de Sistemas e em preparação ativa para a certificação **Microsoft Certified: Azure Developer Associate (AZ-204)**.
+> [!TIP]
+> **Foco Atual:** Implementação de padrões de mensageria assíncrona e eventos de domínio em projetos .NET 9 para cenários de alta disponibilidade.
 
 ---
 
 ### Projetos em Destaque
 
-* **Course Management System (GestaoCursos):** API desenvolvida com **.NET 8** seguindo rigorosamente os padrões de **Clean Architecture** e **DDD**. Implementa funcionalidades avançadas como **Soft Delete**, granularidade em atualizações via PATCH, e mapeamentos fluentes customizados para MySQL.
-* **Korp Challenge:** Ecossistema de Microsserviços para gestão de estoque e faturamento, utilizando comunicação distribuída, bancos de dados independentes.
-* **MyRecipeBook:** Projeto focado em regras de negócio complexas, criptografia de dados e integração de APIs seguras.
+* **IveComeToBook API:** Sistema de venda e aluguel de livros desenvolvido com **.NET 9**. Aplica **DDD Tático**, **Clean Architecture** e segurança robusta com criptografia **SHA-512**.
+* **Korp Microservices Challenge:** Ecossistema de Microsserviços para gestão de estoque e faturamento, utilizando comunicação distribuída e o padrão **Database per Service**.
+* **MyRecipeBook:** Projeto focado em regras de negócio complexas, testes automatizados e integração de pipelines de CI/CD no Azure DevOps.
 
 ---
 
@@ -30,11 +30,10 @@ Sou um desenvolvedor focado em construir sistemas robustos, escaláveis e de alt
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens & Frameworks** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) |
-| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) |
-| **Dados & ORM** | ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Tools & Middlewares** | ![Mapster](https://img.shields.io/badge/Mapster-732E91?style=flat&logo=dotnet&logoColor=white) ![FluentValidation](https://img.shields.io/badge/FluentValidation-8E44AD?style=flat&logo=fluentvalidation&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) |
-| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Linguagens & Frameworks** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
+| **Mensageria** | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) |
+| **Dados & ORM** | ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
@@ -58,4 +57,4 @@ Sou um desenvolvedor focado em construir sistemas robustos, escaláveis e de alt
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maaety37@gmail.com)
 
 ---
-<p align="center"><i>"Building software like a classic rock song: solid, loud, and perfectly timed."</i></p>
+<p align="center"><i>"A complexidade é o inimigo. É preciso muito esforço para tornar algo simples." — Anders Hejlsberg</i></p>
