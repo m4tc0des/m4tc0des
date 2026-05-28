@@ -1,4 +1,4 @@
-# Olá, eu sou Mateus
+# Olá, eu sou Mateus 👋
 
 ## Backend Software Engineer | .NET Specialist
 
@@ -13,22 +13,22 @@ Sou um desenvolvedor focado em construir sistemas robustos, escaláveis e de alt
 
 * **Mensageria & Sistemas Distribuídos:** Implementação de comunicação assíncrona utilizando **RabbitMQ** e **Kafka** para garantir resiliência e escalabilidade em arquiteturas de microsserviços.
 * **Arquitetura & Design:** Desenvolvimento de sistemas desacoplados e APIs RESTful com **ASP.NET Core**, utilizando **Clean Architecture** e garantindo segurança avançada com **Identity** e **JWT**.
-* **Persistência & Performance:** Especialista em **Dapper (Micro-ORM)** e **Entity Framework Core**. Expertise na escrita de consultas SQL de alta performance, aplicação de padrões de **Repositórios Segregados** e suporte nativo a cenários **Multi-DB**.
-* **Qualidade & Testes Automatizados:** Criação de suítes robustas de **Testes de Unidade** e **Testes de Integração** (xUnit). Uso estratégico de **Bogus** para geração de dados fakes dinâmicos e **Shouldly** para escrita de asserções limpas e fluídas.
+* **Persistência & Performance:** Especialista em **Dapper (Micro-ORM)** e **Entity Framework Core**. Expertise na escrita de consultas SQL de alta performance, aplicação de padrões de **Repositórios Segregados** (ISP/SOLID) e suporte nativo a cenários **Multi-DB**.
+* **Qualidade & Testes Automatizados:** Criação de suítes robustas de **Testes de Unidade** e **Testes de Integração** (xUnit). Uso estratégico de **Bogus** para geração de dados fakes dinâmicos e **Shouldly** para escrita de asserções limpas, fluidas e legíveis.
 * **Integridade & Infraestrutura:** Uso extensivo de **FluentValidation** para validação de dados inconsistentes, **FluentMigrator** para evolução de esquemas de banco versionados e **Docker** para isolamento e orquestração de containers.
 
 > [!TIP]
-> **Foco Atual:** Evolução de sistemas para **.NET 10**, automação de testes (Unidade e Integração), geração dinâmica de dados e orquestração avançada com **Docker**.
+> **Foco Atual:** Evolução de sistemas para **.NET 10**, automação de testes (Unidade e Integração) com análise estática de **Code Coverage**, geração dinâmica de dados e orquestração avançada com **Docker**.
 
 ---
 
 ### Projetos em Destaque
 
-**[MyRecipeBook](https://github.com/m4tc0des/IveComeToBook):** API para gestão de receitas culinárias que desenvolvi usando .NET 10, aplicando DDD Tático e Clean Architecture. O projeto segue os princípios do SOLID à risca, organizando as injeções de dependência de forma totalmente isolada e separada por camadas.
+**[MyRecipeBook API](https://github.com/m4tc0des/MyRecipeBook):** API de alta performance para gestão de receitas culinárias que desenvolvi utilizando .NET 10, aplicando DDD Tático e Clean Architecture. O projeto segue os princípios do SOLID à risca, organizando as injeções de dependência de forma totalmente isolada e segregada por camadas.
 
-Para a persistência de dados, fiz uma transição estratégica para o Entity Framework Core integrado com o banco de dados MySQL, que roda direto em um container via Docker. Pensando na experiência real, adicionei validações robustas com FluentValidation e suporte a múltiplos idiomas através de internacionalização (i18n).
+Para a persistência de dados, implementei uma transição estratégica para o Entity Framework Core integrado ao banco de dados MySQL, rodando de forma isolada em containers Docker para o ambiente de desenvolvimento e testes. A API conta com validações robustas via FluentValidation, tratamento global de exceções polimórficas (respeitando OCP e LSP) e suporte nativo a múltiplos idiomas através de internacionalização (i18n).
 
-Na parte de qualidade de software, criei uma suíte de testes de unidade com xUnit, usando uma camada separada (CommonTestUtilities) com Bogus para gerar os dados fakes e Shouldly para deixar as asserções bem fluídas e fáceis de ler.
+Na parte de qualidade de software, estruturei uma esteira automatizada de testes com xUnit em uma camada separada (`CommonTestUtilities`), utilizando Bogus para dados sintéticos e Shouldly para asserções fluidas. O projeto possui filtros avançados de **Code Coverage** integrados ao pipeline, mantendo uma cobertura de linhas de **~89%** focada exclusivamente nas regras de negócio da aplicação.
 
 ---
 
