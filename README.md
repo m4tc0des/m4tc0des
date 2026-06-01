@@ -1,4 +1,4 @@
-# Olá, eu sou Mateus 👋
+# Olá, eu sou Mateus
 
 ## Backend Software Engineer | .NET Specialist
 
