@@ -1,6 +1,6 @@
 # Olá, eu sou Mateus
 
-## Backend Software Engineer | .NET Specialist
+## Backend Software Engineer
 
 Sou um desenvolvedor focado em construir sistemas robustos, escaláveis e de alta performance utilizando o ecossistema **.NET**. Minha atuação é pautada pela entrega de software de alta qualidade, aplicando **Microsserviços**, **Clean Architecture**, **Domain-Driven Design (DDD)** e os princípios **SOLID**. 
 
