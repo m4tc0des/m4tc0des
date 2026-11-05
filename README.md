@@ -1,34 +1,33 @@
 # Olá, eu sou Mateus
 
-## Backend Software Engineer
+## Software Engineer | .NET & Desktop Architecture
 
-Sou um desenvolvedor focado em construir sistemas robustos, escaláveis e de alta performance utilizando o ecossistema **.NET**. Minha atuação é pautada pela entrega de software de alta qualidade, aplicando **Microsserviços**, **Clean Architecture**, **Domain-Driven Design (DDD)** e os princípios **SOLID**. 
+Sou um engenheiro de software focado no ecossistema **.NET**, atuando desde a concepção de APIs resilientes até o desenvolvimento de aplicações desktop modernas, performáticas e fluidas. Minha atuação combina **Clean Architecture**, **Domain-Driven Design (DDD)**, padrões arquiteturais consolidados (Repository Segregation, Unit of Work, Use Cases) e engenharia de software guiada por **SOLID** e testes automatizados.
 
 > [!IMPORTANT]
-> **O Diferencial da Maturidade:** Com mais de 5 anos de trajetória técnica sólida, migrei da análise de sistemas ERP e suporte avançado para a engenharia de software. Essa bagagem me deu uma visão única sobre regras de negócio complexas, otimização de consultas SQL e a importância vital de uma arquitetura limpa para a manutenção a longo prazo.
+> **O Diferencial da Maturidade Técnica:** Com mais de 5 anos de vivência no setor técnico e corporativo, fiz a transição da análise de sistemas ERP e suporte avançado para o desenvolvimento de software. Esse histórico me proporciona visão aprofundada de regras de negócio críticas, modelagem de dados, experiência do usuário (UX) em ambiente corporativo e arquitetura voltada para sustentabilidade de código.
 
 ---
 
 ### Expertise & Foco Técnico
 
-* **Mensageria & Sistemas Distribuídos:** Implementação de comunicação assíncrona utilizando **RabbitMQ** e **Kafka** para garantir resiliência e escalabilidade em arquiteturas de microsserviços.
-* **Arquitetura & Design:** Desenvolvimento de sistemas desacoplados e APIs RESTful com **ASP.NET Core**, utilizando **Clean Architecture** e garantindo segurança avançada com **Identity** e **JWT**.
-* **Persistência & Performance:** Especialista em **Dapper (Micro-ORM)** e **Entity Framework Core**. Expertise na escrita de consultas SQL de alta performance, aplicação de padrões de **Repositórios Segregados** (ISP/SOLID) e suporte nativo a cenários **Multi-DB**.
-* **Qualidade & Testes Automatizados:** Criação de suítes robustas de **Testes de Unidade** e **Testes de Integração** (xUnit). Uso estratégico de **Bogus** para geração de dados fakes dinâmicos e **Shouldly** para escrita de asserções limpas, fluidas e legíveis.
-* **Integridade & Infraestrutura:** Uso extensivo de **FluentValidation** para validação de dados inconsistentes, **FluentMigrator** para evolução de esquemas de banco versionados e **Docker** para isolamento e orquestração de containers.
-
-> [!TIP]
-> **Foco Atual:** Evolução de sistemas para **.NET 10**, automação de testes (Unidade e Integração) com análise estática de **Code Coverage**, geração dinâmica de dados e orquestração avançada com **Docker**.
+* **Arquitetura & Engenharia de APIs:** Construção de APIs RESTful desacopladas com **ASP.NET Core** e **.NET 10**, aplicando **Clean Architecture**, mapeamento explícito com **Mapster**, injeção de dependência segregada por camadas e validações declarativas com **FluentValidation**.
+* **Modern Desktop & UI/UX com .NET MAUI:** Desenvolvimento de aplicações desktop nativas para Windows com interfaces limpas e ergonômicas (inspiradas na usabilidade de dashboards modernos como o Docker Desktop), navegação inteligente por teclado, controles de ciclo de vida nativo de janelas e empacotamento standalone.
+* **Persistência, Performance & Multi-DB:** Domínio de **Entity Framework Core** e **Dapper (Micro-ORM)**. Estratégias híbridas de armazenamento com **MySQL** em contêineres Docker e **SQLite** local provisionado em diretórios com controle de permissões (`%LocalAppData%`).
+* **Qualidade & Testes Automatizados:** Suítes completas de **Testes de Unidade e Integração** com **xUnit**, integrando **Bogus** para geração de massas de dados sintéticos dinâmicos e **Shouldly** para asserções fluidas e legíveis, visando alta cobertura de regras de negócio.
+* **DevOps, Build & Distribuição:** Publicação otimizada via CLI do .NET (`self-contained`, `win-x64`), automação de compilação sem dependência da Microsoft Store e criação de instaladores executáveis via **Inno Setup**.
 
 ---
 
-### Projetos em Destaque
+### Projeto em Destaque
 
-**[MyRecipeBook API](https://github.com/m4tc0des/MyRecipeBook):** API de alta performance para gestão de receitas culinárias que desenvolvi utilizando .NET 10, aplicando DDD Tático e Clean Architecture. O projeto segue os princípios do SOLID à risca, organizando as injeções de dependência de forma totalmente isolada e segregada por camadas.
+### [WestmarchBook — Sistema de Gestão Bibliotecária](https://github.com/m4tc0des/WestmarchBook)
+Ecossistema completo de gestão bibliotecária desenvolvido para a **Biblioteca Comunitária Filarmônica 30 de Junho**, composto por uma **Web API em .NET 10** e um cliente desktop de alta produtividade construído em **.NET MAUI**.
 
-Para a persistência de dados, implementei uma transição estratégica para o Entity Framework Core integrado ao banco de dados MySQL, rodando de forma isolada em containers Docker para o ambiente de desenvolvimento e testes. A API conta com validações robustas via FluentValidation, tratamento global de exceções polimórficas (respeitando OCP e LSP) e suporte nativo a múltiplos idiomas através de internacionalização (i18n).
-
-Na parte de qualidade de software, estruturei uma esteira automatizada de testes com xUnit em uma camada separada (`CommonTestUtilities`), utilizando Bogus para dados sintéticos e Shouldly para asserções fluidas. O projeto possui filtros avançados de **Code Coverage** integrados ao pipeline, mantendo uma cobertura de linhas de **~89%** focada exclusivamente nas regras de negócio da aplicação.
+* **Backend & Domínio:** Arquitetado sob os princípios de **DDD Tático** e **Clean Architecture**, separando contratos de escrita e atualização via interfaces segregadas (ISP), Use Cases isolados para o fluxo crítico de aluguel/devolução e validações assíncronas via FluentValidation. Suporte a migrações dinâmicas para MySQL em ambiente containerizado e provisionamento local com SQLite.
+* **Engenharia Desktop & UX:** Interface gráfica em .NET MAUI customizada na paleta azul e branca da instituição, trazendo barra lateral de atalhos rápidos, customização nativa de *TitleBar* e barra de status em tempo real (monitoramento de conexão, servidor, base e usuário ativo).
+* **Usabilidade e Ergonomia:** Sistema de navegação sequencial de foco por teclado com disparo automático via tecla `Enter`, modal de controle e rastreio de exemplares físicos (cópia física vs. obra), atalhos globais de bloqueio (`F2`) e proteção de encerramento acidental de sessão.
+* **Esteira de Qualidade e Entrega:** Suíte de testes automatizados com xUnit, Bogus e Shouldly cobrindo cenários de sucesso, validação e concorrência de empréstimos. Publicação compilada de forma independente (`WindowsPackageType=None`) e empacotada em instalador executável via Inno Setup.
 
 ---
 
@@ -36,10 +35,10 @@ Na parte de qualidade de software, estruturei uma esteira automatizada de testes
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens & Frameworks** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
-| **Dados & ORM** | ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Qualidade & Testes** | ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Bogus](https://img.shields.io/badge/Bogus_Data-FF6600?style=for-the-badge) ![Shouldly](https://img.shields.io/badge/Shouldly-239120?style=for-the-badge) |
-| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **Linguagens & Plataformas** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
+| **Persistência & Bancos de Dados** | ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| **Qualidade & Testes** | ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Bogus](https://img.shields.io/badge/Bogus_Data-FF6600?style=for-the-badge) ![Shouldly](https://img.shields.io/badge/Shouldly-239120?style=for-the-badge) ![FluentValidation](https://img.shields.io/badge/FluentValidation-00599C?style=for-the-badge) |
+| **DevOps, Build & Ferramentas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Inno Setup](https://img.shields.io/badge/Inno_Setup-2C3E50?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
 ---
 
